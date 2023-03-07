@@ -152,7 +152,7 @@ ol .nav:hover{
 	position:static;
 	float:right;
 	display:inline;
-	height:520px;
+	/*height:520px;*/
 	width:35%;
 	background-color:#e8d9b5;
 	overflow:scroll;
@@ -174,7 +174,7 @@ ol .nav:hover{
 	float:left;
 	display:inline;
 	width:100%;
-	height:100%;
+	/*height:100%;*/
 	background-color:white;
 	overflow:scroll;
 	}
