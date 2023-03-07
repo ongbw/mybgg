@@ -14,6 +14,6 @@
         "api_key_search_only": "fa002f3242f6ac53c147993ab8731f91",
         "index_name": "ongbw_bgg",
         "hits_per_page": 48,
-	"sort_by": "asc(rank)
+	"sort_by": "asc(rank)"
     }
 }
